@@ -2,7 +2,7 @@
   File: lavanza_sample_data.sql
   Purpose: Inserts sample data into the Lavanza database for demonstration and testing.
   Author: Larissa de Santi (GitHub: https://github.com/larisanti)
-  Created: 2025-02-13
+  Created: 13-02-2025
   Notes: Ensure the database schema is set up before running this script.
 */
 
