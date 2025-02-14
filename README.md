@@ -10,6 +10,8 @@ This project showcases a MySQL-based system designed to manage the operations of
 
 The database consists of four key sections:
 
+![The database consists of four key sections.](ERD/lavanza-ERD-sections.png)
+
 ### 1. Customers and Orders
 This section manages customer interactions and order processing, supports multiple sales channels for scalability, and ensures accurate order tracking.
 - **`customers`** – Stores customer information.
