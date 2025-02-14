@@ -2,7 +2,7 @@
   File: lavanza_db_schema.sql
   Purpose: Database schema for Lavanza, an artisanal soap business. It defines the tables, relationships, and constraints for its database.
   Author: Larissa de Santi (GitHub: https://github.com/larisanti)
-  Created: 2025-02-13
+  Created: 13-02-2025
   Notes: Run this script in MySQL to create the database structure. Execute this before inserting data.
 */
 
