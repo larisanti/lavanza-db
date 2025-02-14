@@ -15,7 +15,7 @@ The database consists of four key sections:
 ### 1. Customers and Orders
 This section manages customer interactions and order processing, supports multiple sales channels for scalability, and ensures accurate order tracking.
 - **`customers`** – Stores customer information.
-- **`sales_channels`** – Tracks sales platforms (Shopee, Mercado Livre, etc.).
+- **`sales_channels`** – Tracks sales channels.
 - **`orders`** – Manages order details.
 - **`addresses`** – Stores customer addresses.
 - **`order_items`** – Links products to orders.
