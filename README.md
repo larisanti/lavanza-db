@@ -1,6 +1,8 @@
 # Lavanza Database
 
-## Project Overview
+[![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-orange?logo=mysql&logoColor=white)](https://www.mysql.com/products/workbench/)
+[![MySQL](https://img.shields.io/badge/MySQL-00000A?logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![SQL](https://img.shields.io/badge/SQL-blue?logo=database&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 
 This project showcases a MySQL-based system designed to manage the operations of Lavanza, a handmade soap business. The structured database organizes essential business data, including customers, orders, products, inventory, production, and suppliers, ensuring efficiency and scalability. It serves as the foundation for future integrations with e-commerce platforms and demonstrates my ability to design normalized, scalable, and efficient relational databases using MySQL.
 
